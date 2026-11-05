@@ -110,7 +110,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 ### Execution Steps
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/bank-age-prediction.git
+   git clone https://github.com/the-Asif/Bank-age-prediction-ml.git
    cd bank-age-prediction
    ```
 2. Launch Jupyter Notebook:
